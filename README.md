@@ -80,9 +80,9 @@ Resize images to a (64,128). This ensures that all images have the same dimensio
 
 **2- Evaluate the Model**
 
-Accuracy of Decision Tree classifer on train set: 1.00
-Accuracy of Decision Tree classifer on test set: 0.98
-Accuracy of the model : 0.98
+- Accuracy of Decision Tree classifer on train set: 1.00
+- Accuracy of Decision Tree classifer on test set: 0.98
+- Accuracy of the model : 0.98
 
 **Confusion Matrix**
 
