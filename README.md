@@ -14,7 +14,8 @@ PedestrianGuard AI is a cutting-edge project designed to enhance urban safety by
 
 **Classification:** The preprocessed data is then fed into a Support Vector Machine, which has been trained on a diverse dataset to recognize patterns indicative of pedestrians. This robust classification process ensures accurate identification.
 
-Flow diagram of project methodology
+**Flow diagram of project methodology**
+
 <img src="images/peiton_class.png"  title="Flow diagram of project methodology">
 
 
@@ -41,12 +42,15 @@ Here is an exploratory visualization of the data set. It is a bar chart showing 
 Here is an visualization of some 9 randomly images for each class. As we can see, within each class there is a high variability in appearance due to different weather conditions, time of the day and image angle.
 
 **Pedestrians Images**
+
 <img src="images/ped.png"  title="pedestrians Images">
 
 **Non pedestrians Images**
+
 <img src="images/nonped.png"  title="Non pedestrians Images">
 
 **Shiffled Images**
+
 <img src="images/shuffled.png"  title="Shiffled Images">
 
 
