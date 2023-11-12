@@ -69,4 +69,26 @@ Resize images to a (64,128). This ensures that all images have the same dimensio
 
 <img src="images/processed_img.png"  title="preprocessed Images">
 
+# **Data Modeling**
 
+**1- Features and Labels**
+
+  - X_train shape :  (16000, 3780)
+  - y_train shape :  (16000,)
+  - X_test shape :  (4000, 3780)
+  - y_test shape :  (4000,)
+
+**2- Evaluate the Model**
+
+Accuracy of Decision Tree classifer on train set: 1.00
+Accuracy of Decision Tree classifer on test set: 0.98
+Accuracy of the model : 0.98
+
+**Confusion Matrix**
+
+<img src="images/confusion_matrix.png"  title="preprocessed Images">
+
+
+# **Test a Model on New Images**
+
+<img src="images/resulst.png"  title="preprocessed Images">
