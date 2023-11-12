@@ -35,15 +35,15 @@ To download the dataset use this commands
 
 Here is an exploratory visualization of the data set. It is a bar chart showing how the data is ditributed across the different labels.
 
-<img src="Distribution.png"  title="Distribution of Classes around images">
+<img src="images/Distribution.png"  title="Distribution of Classes around images">
 
 Here is an visualization of some 9 randomly images for each class. As we can see, within each class there is a high variability in appearance due to different weather conditions, time of the day and image angle.
 
-<img src="ped.png"  title="pedestrians Images">
+<img src="images/ped.png"  title="pedestrians Images">
 
-<img src="nonped.png"  title="Non pedestrians Images">
+<img src="images/nonped.png"  title="Non pedestrians Images">
 
-<img src="shuffled.png"  title="Shiffled Images">
+<img src="images/shuffled.png"  title="Shiffled Images">
 
 
 
