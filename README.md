@@ -1,4 +1,4 @@
-# **PedestrianGuard**
+# **PedestrianGuard AI**
 
 PedestrianGuard AI is a cutting-edge project designed to enhance urban safety by leveraging advanced image classification techniques. The primary goal of this project is to classify images swiftly and accurately, determining whether they contain pedestrians or not.
 
